@@ -1,0 +1,4 @@
+host=202.xx.xx.xx
+port=53794
+direkopvpn=/root/cloak.ovpn
+direkjson=/root/openvpn.json
