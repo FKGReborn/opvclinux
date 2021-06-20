@@ -8,7 +8,7 @@ try to set config with command from terminal type
 
 opvc
 
-select number 1 and try to set configuration , but you still must add openvpn config and openvpn.json config manual to 
+select number 1 and try to set configuration , but you still need to adding openvpn config and openvpn.json config manual to 
 
 /root/cloak.ovpn
 
