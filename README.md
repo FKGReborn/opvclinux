@@ -1,4 +1,21 @@
-# opvclinux
+# AUTO INSTALL BUT NOT TESTED
+
+wget --no-check-certificate "https://raw.githubusercontent.com/FKGReborn/opvclinux/main/install.sh" -O ~/install.sh && chmod 777 ~/install.sh && ~/./install.sh
+
+<!-- ATTENTION -->
+# IF using auto instalation 
+try to set config with command from terminal type 
+
+opvc
+
+select number 1 and try to set configuration , but you still must add openvpn config and openvpn.json config manual to 
+
+/root/cloak.ovpn
+
+/root/openvpn.json
+
+
+# opvclinux MANUAL INSTALLATION
 ck-client openvpn for linux . Tested on linux mint 20.1 ulyssa
 
 sudo -i
